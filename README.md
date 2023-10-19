@@ -1,4 +1,3 @@
 # prueba.github.io
 Página web prueba de la tarea 2, DIWEB
-
-He borrado los cambios anteriores.
+Página web prueba de la tarea 2, DIWEB
