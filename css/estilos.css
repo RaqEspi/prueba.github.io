@@ -156,6 +156,8 @@
   .formulario {
     display: grid;
     grid-template-columns: 10% 40% 40% 10%;
+    justify-items: right;
+    align-items: center;
   }
 
   .formulario1 {
@@ -231,3 +233,5 @@
     margin: auto;
     justify-items: center;
   }
+
+  
